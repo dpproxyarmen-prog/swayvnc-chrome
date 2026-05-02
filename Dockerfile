@@ -1,5 +1,5 @@
 FROM debian:sid-slim
-LABEL org.opencontainers.image.source="https://github.com/stephanlensky/swayvnc-chrome"
+LABEL org.opencontainers.image.source="https://github.com/dpproxyarmen-prog/swayvnc-chrome"
 
 ARG USER=chrome-user
 ARG PUID=1000
